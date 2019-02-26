@@ -18,3 +18,14 @@ This app uses:
 The recipe listing is gotten from a JSON file containing the recipes' instructions, ingredients, videos and images. However it is not a properly filled file and some recipes have a video, an image, or no visual media at all.
 
 
+![](https://github.com/Uroos/Baking-App/blob/master/Screenshot_20181222-221419.png)
+
+
+
+![](https://github.com/Uroos/Baking-App/blob/master/Screenshot_20181222-221429.png)
+
+
+
+![](https://github.com/Uroos/Baking-App/blob/master/Screenshot_20181222-221509.png)
+
+
